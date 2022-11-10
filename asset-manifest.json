@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.a17fc570.css",
-    "main.js": "/static/js/main.049fb2a6.js",
+    "main.css": "/static/css/main.6591ec1e.css",
+    "main.js": "/static/js/main.d7932f32.js",
     "static/js/976.162d5eed.chunk.js": "/static/js/976.162d5eed.chunk.js",
+    "static/media/fede.jpg": "/static/media/fede.4a229f02f96bfd79f65a.jpg",
     "static/media/img9.png": "/static/media/img9.2bcc165a6c57dba116ba.png",
     "static/media/img2.png": "/static/media/img2.c469d29877c2f4cbbee3.png",
     "static/media/img6.png": "/static/media/img6.f438f80abbef23fc0295.png",
@@ -13,7 +14,6 @@
     "static/media/chrs.jpg": "/static/media/chrs.e3ce2495983cf38317cf.jpg",
     "static/media/fran.jpg": "/static/media/fran.003064982de6fd392ccb.jpg",
     "static/media/img5.png": "/static/media/img5.cf9526b5e06ca63a0113.png",
-    "static/media/fede.jpg": "/static/media/fede.011200641a8953395244.jpg",
     "static/media/jor.jpg": "/static/media/jor.4cc72f216bbf5741a7ab.jpg",
     "static/media/img3.png": "/static/media/img3.c54573c20f5705b34b24.png",
     "static/media/img4.png": "/static/media/img4.38b0142b13fcecfeddd1.png",
@@ -23,12 +23,12 @@
     "static/media/Logo.svg": "/static/media/Logo.a9d4e2a5e67ac7cb932a0adee70ecca2.svg",
     "static/media/Logo-Mitad.svg": "/static/media/Logo-Mitad.5ccaa799216a996366f31e4808693263.svg",
     "index.html": "/index.html",
-    "main.a17fc570.css.map": "/static/css/main.a17fc570.css.map",
-    "main.049fb2a6.js.map": "/static/js/main.049fb2a6.js.map",
+    "main.6591ec1e.css.map": "/static/css/main.6591ec1e.css.map",
+    "main.d7932f32.js.map": "/static/js/main.d7932f32.js.map",
     "976.162d5eed.chunk.js.map": "/static/js/976.162d5eed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a17fc570.css",
-    "static/js/main.049fb2a6.js"
+    "static/css/main.6591ec1e.css",
+    "static/js/main.d7932f32.js"
   ]
 }
